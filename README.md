@@ -1,4 +1,6 @@
 
 # Example: Calculating entropy
 
-$class to calculate entropy.
+This is an example project created in class to calculate entropy.
+
+Updated on GitHub.
