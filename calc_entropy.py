@@ -1,4 +1,4 @@
 
 
 if __name__ == "__main__":
-    pass
+    print("Hello, welcome to the entropy script")
