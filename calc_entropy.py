@@ -3,7 +3,7 @@ import numpy as np
 
 def entropy(probs):
     """Assumes input is numpy array and valid probability vector"""
-    pass
+    return -(probs * np.log(probs))
 
 
 if __name__ == "__main__":
